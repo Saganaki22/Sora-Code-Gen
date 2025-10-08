@@ -1,5 +1,5 @@
 # Sora Invite Code Script Configuration
 # Replace the values below with your own browser's information
 
-OAI-Device-Id=3795417b-0554-2ded-b186-b4354e1189cb
-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+OAI-Device-Id=ffbc809f-b235-4084-83db-ab367c819a96
+User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0

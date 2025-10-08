@@ -4,19 +4,19 @@
 
 # Number of threads to run concurrently. Higher is faster but more likely to be rate-limited.
 # Recommended: 1-5
-max_workers=3
+max_workers=5
 
 # Delay in seconds between each batch of requests. A small delay helps avoid being blocked.
 # Recommended: 1.0 - 5.0
-delay=3.0
+delay=1.0
 
 # Maximum number of times to retry a single code if it fails (e.g., due to rate limiting).
 # Recommended: 10 - 30
-max_retries=20
+max_retries=5
 
 # Delay in seconds between retries. This delay increases with each retry attempt.
 # Recommended: 5.0 - 15.0
-retry_delay=8.0
+retry_delay=5.0
 
 # --- File Names ---
 # You can customize the names of the output files if you wish.
